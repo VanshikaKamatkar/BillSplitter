@@ -1,4 +1,4 @@
-#BillSplitter
+# BillSplitter
 - Bill input: Enter the total bill amount.
 - Tip selection: Choose a predefined tip percentage or input a custom one.
 - People count: Specify the number of people sharing the bill.
